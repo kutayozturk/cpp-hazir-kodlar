@@ -1,1 +1,1 @@
-# cpp-hazir-kodlar
+# C++ için hazırladığım ve derlediğim hazır kodlar
